@@ -1,7 +1,7 @@
 ![Header](./github-header-image.png)
 <br>
 # 💫 About Me:
-👋 Hi, I’m Atharv Sanjiv Dwivedi<br>👀 I’m interested in Computational Technology, Economics(Macro/Micro Economics) and Finance-related topics(the Fin-Tech industry, financial markets and personal finance)<br>🌱 I’m currently learning and working on multiple skills, be it Technical and Non-Technical Skills. Currently, I am learning Full-Stack Web Development and building my interest in the fields of Gen-AI and Machine Learning.<br>📫 How to reach me: <br> Ping me on Linkedin: www.linkedin.com/in/atharv-dwivedi-01a292289 | <br>😄 Pronouns: He/His<br>⚡ Fun fact: I started my small-scale biz at 15, and sold it for 150k after 3 years.
+👋 Hi, I’m Atharv Sanjiv Dwivedi<br>👀 I’m interested in Computational Technologies, Economics(Macro/Micro Economics), the Fin-Tech industry(Finance-related topics and financial markets as well.)<br>🌱 I’m currently learning and working on multiple skills. I am learning Full-Stack Web Development and developing my interest in Data Science, Generative-AI, and Machine Learning.<br>📫 How to reach me: <br> Ping me on Linkedin: www.linkedin.com/in/atharv-dwivedi-01a292289 | <br>😄 Pronouns: He/His<br>⚡ Fun fact: I started my small-scale biz at 15, and sold it for 150k after 3 years.
 
 
 ## 🌐 Socials:
@@ -14,6 +14,27 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=atharv-1201&theme=aura_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=atharv-1201&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<br>
+<div align="center"> 
+  
+<!--   <h2>🐍 Contributions 🐍</h2>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+</div> -->
+
+<h2 align="center">Leetcode Info 🖥 <h2>  
+<p align="center">
+  <a href="https://leetcode.com/u/atharv_5066/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-10.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/u/atharv_5066/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-09.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/u/atharv_5066/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/u/atharv_5066/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="200" width="200" /></a>
+</p>
+<p align="center">
+  
+  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/atharv_5066?theme=dark&font=Nunito&ext=heatmap" />  
+</p>
+
+<br/><br/>
+<br>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=atharv-1201&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
