@@ -1,3 +1,5 @@
+![Header](./github-header-image.png)
+<br>
 # 💫 About Me:
 👋 Hi, I’m Atharv Sanjiv Dwivedi<br>👀 I’m interested in Computational Technology, Economics(Macro/Micro Economics) and Finance-related topics(the Fin-Tech industry, financial markets and personal finance)<br>🌱 I’m currently learning and working on multiple skills, be it Technical and Non-Technical Skills. Currently, I am learning Full-Stack Web Development and building my interest in the fields of Gen-AI and Machine Learning.<br>📫 How to reach me: <br> Ping me on Linkedin: www.linkedin.com/in/atharv-dwivedi-01a292289 | <br>😄 Pronouns: He/His<br>⚡ Fun fact: I started my small-scale biz at 15, and sold it for 150k after 3 years.
 
