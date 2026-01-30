@@ -14,12 +14,11 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=atharv-1201&theme=aura_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=atharv-1201&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
   
-<h2>🐍 Contributions 🐍</h2>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
-<br>
 
-<h2 align="center">Leetcode Info 🖥 <h2>  
+<h2 align="center">Leetcode Stats<h2>  
 <p align="center">
   <a href="https://leetcode.com/u/atharv_5066/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-10.gif" alt="jyot" height="200" width="200" /></a>
   <a href="https://leetcode.com/u/atharv_5066/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-09.gif" alt="jyot" height="200" width="200" /></a>
@@ -28,12 +27,13 @@
 </p>
 
 
+
 <div align="center">
   <h3> Thank you for visiting my profile! </h3>
 </div>
 
 <div align="center">
-  <b>✨ Made with ❤️ by Atharv Dwivedi</b>
+  <h3>Made with ❤️ by Atharv Dwivedi</h3>
   <br>
 </div>
 
