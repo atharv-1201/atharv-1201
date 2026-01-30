@@ -13,15 +13,10 @@
 ![](https://github-readme-stats.vercel.app/api?username=atharv-1201&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=atharv-1201&theme=aura_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=atharv-1201&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=atharv-1201&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-<br>
-<div align="center"> 
   
-<!--   <h2>🐍 Contributions 🐍</h2>
+<h2>🐍 Contributions 🐍</h2>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-</div> -->
+</div>
 <br>
 
 <h2 align="center">Leetcode Info 🖥 <h2>  
@@ -36,15 +31,12 @@
 <div align="center">
   <h3> Thank you for visiting my profile! </h3>
 </div>
-<p align="center">
-  
-  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/atharv_5066?theme=dark&font=Nunito&ext=heatmap" />  
-</p>
 
-<br/><br/>
-<br>
+<div align="center">
+  <b>✨ Made with ❤️ by Atharv Dwivedi</b>
+  <br>
+</div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
