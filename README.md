@@ -54,6 +54,23 @@ Eager to constantly learn and contribute to innovative projects, I am committed 
 
 # 💻 Tech Stack:
 
+
+<div align="center">
+
+### 🌐 Frontend Mastery
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,figma&theme=dark" />
+
+### ⚙️ Backend & Database
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql,firebase&theme=dark" />
+
+### 💻 Programming Languages
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,typescript&theme=dark" />
+
+### 🔧 Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,vercel&theme=dark" />
+
+</div>
+
 # 📊 GitHub Statistics:
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atharv-1201&theme=radical" width="100%"/>
@@ -72,9 +89,6 @@ Eager to constantly learn and contribute to innovative projects, I am committed 
   </table>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=atharv-1201&show_icons=true&theme=radical&layout=compact&hide_border=true" width="50%"/>
-</div>
 
 
 <!-- Animated Divider -->
