@@ -1,11 +1,17 @@
 ![Header](./github-header-image.png)
 <br>
 # 💫 About Me:
-👋 Hi, I’m Atharv Sanjiv Dwivedi<br>👀 I’m interested in Computational Technologies, Economics(Macro/Micro Economics), the Fin-Tech industry(Finance-related topics and financial markets as well.)<br>🌱 I’m currently learning and working on multiple skills. I am learning Full-Stack Web Development and developing my interest in Data Science, Generative-AI, and Machine Learning.<br>📫 How to reach me: <br> Ping me on Linkedin: www.linkedin.com/in/atharv-dwivedi-01a292289 | <br>😄 Pronouns: He/His<br>⚡ Fun fact: I started my small-scale biz at 15, and sold it for 150k after 3 years.
+I am a resourceful, solution-oriented, and motivated third-year Computer Science and Engineering student at SRM Institute of Science and Technology, Chennai, passionate about computing technologies and finance-related topics, with a flair for dramatic arts.
+
+I have a keen interest in exploring the intersections of technology, data science, economics, and quantitative finance. My genuine interest for the financial markets, economic trends, and the Fintech-Industry has driven me to dive deeper into the field of data analytics, to uncover practical and valuable insights and make informed decisions as per the market trend. 
+
+Eager to constantly learn and contribute to innovative projects, I am committed to gaining a solid foundation in engineering principles, yearning to encounter new experiences, and actively seeking opportunities to enhance my technical and non-tech skills.
+⚡ Fun fact: I started my small-scale biz at 15, and sold it for 150k after 3 years.
 
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 ## Let’s Leverage the Power of Unity!
 
 <div align="center">
@@ -70,10 +76,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=atharv-1201&show_icons=true&theme=radical&layout=compact&hide_border=true" width="50%"/>
 </div>
 
-<!-- Activity Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=atharv-1201&theme=radical&hide_border=true&area=true" width="100%"/>
-</div>
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -91,15 +93,10 @@
 </p>
 <br>
 
-
 <div align="center">
-  <h5> Thank you for visiting my profile! </h5>
+  <h3> Thank you for visiting my profile! </h3>
 </div>
 
-<div align="center">
-  <h5>Made with ❤️ by Atharv Dwivedi</h5>
-  <br>
-</div>
 
 
 
